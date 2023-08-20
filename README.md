@@ -9,7 +9,7 @@ Here's what I do:
 - I write code for working example applications and for building and publishing technical documentation.
 - I lead teams of technical writers.
 
-Here are my [resume and portfolio](https://timothymcmack.in/).
+Here is my [resume and portfolio site](https://timothymcmack.in/).
 
 ## Contact me
 
