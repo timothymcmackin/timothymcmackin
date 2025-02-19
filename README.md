@@ -11,6 +11,8 @@ Here's what I do:
 
 Here is my [resume and portfolio site](https://timothymcmack.in/).
 
+I also do work on Gitlab here: https://gitlab.com/timothymcmackin.
+
 ## Contact me
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/timothymcmackin/) or send an email to my GitHub user name at gmail.
