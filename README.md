@@ -6,8 +6,8 @@ I'm a technical writer working primarily in software documentation.
 Here's what I do:
 
 - I explain complicated computer systems, tasks, and concepts in plain language.
-- I write code for working example applications and for building and publishing technical documentation.
-- I lead teams of technical writers.
+- I build sample applications and implement docs-as-code pipelines.
+- I document AI features and rework docs for consumption by AI agents.
 
 Here is my [resume and portfolio site](https://timothymcmack.in/).
 
